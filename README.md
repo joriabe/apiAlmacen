@@ -51,7 +51,7 @@
 	<tr>
 		<td>/api/packages/cliente/{code}</td>
 		<td>get</td>
-		<td></td>
+		<td>--</td>
 	</tr>
 	<tr>
 		<td>/api/packages/cliente/{code}</td>
